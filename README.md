@@ -10,7 +10,7 @@ Android 工具开发者 · 专注免 Root、免 Shizuku 的轻量系统工具
 
 ---
 
-## 在做的事
+## 主要作品
 
 ### [Mine App · 应用管理器](https://github.com/henry-97/MineApp)
 
